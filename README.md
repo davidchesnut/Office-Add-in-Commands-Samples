@@ -1,4 +1,21 @@
-
+---
+topic: sample
+languages:
+- TypeScript
+- JavaScript
+products:
+  - Excel
+  - Word
+  - PowerPoint
+extensions:
+  type: samples
+  technologies:
+  - Add-ins
+  services:
+  - Excel
+  portals:
+  - Office
+---
 # Office Add-in Commands Samples 
 
 ## Overview
