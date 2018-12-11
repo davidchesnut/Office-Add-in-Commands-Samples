@@ -15,6 +15,8 @@ extensions:
   - Excel
   portals:
   - Office
+  scenarios:
+  - Healthcare
 ---
 # Office Add-in Commands Samples 
 
